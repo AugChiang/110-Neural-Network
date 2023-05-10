@@ -5,7 +5,7 @@ NTNU 110 semester Neural Network course
 
 2. GAN model for generating Chinese word
 <br />
-![image](https://github.com/AugChiang/110-Neural-Network/blob/main/1120508_Reworked/MyGAN_24x24/ChWordGANBlack.gif)
+![](https://github.com/AugChiang/110-Neural-Network/blob/main/1120508_Reworked/MyGAN_24x24/ChWordGANBlack.gif)
 <br />
 
 
